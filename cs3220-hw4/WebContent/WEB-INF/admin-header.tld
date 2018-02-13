@@ -1,0 +1,12 @@
+<taglib>
+   <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>header</short-name>
+    <uri>admin-header.tld</uri>
+ 
+    <tag>
+       <name>AdminHeader</name>
+       <tag-class>cs3220.edu.AdminHeader</tag-class>
+       <body-content>empty</body-content>
+    </tag>
+ </taglib>

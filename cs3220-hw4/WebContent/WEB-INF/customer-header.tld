@@ -1,0 +1,12 @@
+<taglib>
+   <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>header</short-name>
+    <uri>customer-header.tld</uri>
+ 
+    <tag>
+       <name>CustomerHeader</name>
+       <tag-class>cs3220.edu.CustomerHeader</tag-class>
+       <body-content>empty</body-content>
+    </tag>
+ </taglib>
